@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SlayerGamerpro
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java, c++ and javaScript
+- 🌱 I’m currently learning java, C++ and javaScript
 - 📫 How to reach me playerpro1477@gmail.com
 
 <!---
